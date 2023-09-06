@@ -40,7 +40,7 @@ const CartHeader = () => {
 return(
     <div>
         <div>
-      <h1 style={{marginLeft:"190px"}}>Condiate Assessment</h1>
+      <h1 style={{marginLeft:"190px"}}>Candidate Assessment</h1>
       <div style={inputContainerStyle}>
         <input type="text" placeholder="Search Assessment" style={inputStyle} />
         <button style={buttonStyle}>+ Create New</button>
